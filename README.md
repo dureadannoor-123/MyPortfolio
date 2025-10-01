@@ -1,93 +1,85 @@
-<!-- Profile Header -->
-<h1 align="center" style="color:#9370DB;">🌸 Hi there 👋, I'm Dure Adan Noor 🌸</h1>
-<h3 align="center">AI Student | Future Data Analyst | Passionate Healthcare Innovator</h3>
+<!-- Header -->
+<h1 align="center" style="color:#9b59b6; font-family: 'Trebuchet MS', sans-serif;">
+✨ Hey, I'm Dure Adan Noor ✨
+</h1>
+<h3 align="center" style="color:#d291bc; font-weight:normal;">
+AI Explorer | Data Analyst in Progress | Healthcare Innovator
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-E6E6FA?style=flat-square&logo=progress" />
-  <img src="https://img.shields.io/badge/Goal-Improving%20Healthcare%20with%20AI-BA55D3?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&weight=600&size=22&duration=3000&pause=1000&color=D291BC&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Student;Passionate+About+Healthcare+AI;Loves+Building+Useful+Apps;Future+Data+Analyst" />
 </p>
 
 ---
 
-## 💡 About Me  
+## 🌸 About Me  
 
-🎓 I'm **Dure Adan Noor**, a BS Artificial Intelligence student at **NUML (4th semester)**.  
-💡 Passionate about **AI in healthcare**, **data analysis**, and building impactful solutions.  
-📚 With a **pre-medical background**, I now explore how AI can revolutionize healthcare in Pakistan.  
-🌸 I also enjoy **painting, cooking, reading novels**, and having proper *movie time* after a busy week.  
+🌍 I'm **Dure Adan Noor**, a BS Artificial Intelligence student at **NUML**.  
+💡 My dream is to blend **AI + Healthcare** to create meaningful solutions for Pakistan.  
+📊 Currently exploring **Data Analysis, ML, and Intelligent Systems**.  
+🎨 Outside of tech, I enjoy **painting, cooking, and reading fiction**.  
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠️ Tech & Tools  
 
-<p>
-  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 🎯 Frameworks & Libraries  
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-4682B4?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-9370DB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🧰 Tools & IDEs  
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-9370DB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-E6E6FA?style=for-the-badge&logo=jupyter&logoColor=black" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-9b59b6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-d291bc?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-BA55D3?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-DA70D6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F6C5D5?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-8E44AD?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-228B22?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Featured Projects  
+## 🚀 Projects  
 
-| Project | Description |
-|---------|-------------|
-| 💟 *Period Tracking App (Tkinter)* | Calendar-based cycle tracker with reminders, chatbot support, and progress visualization. |
-| 🌊 *Disaster Risk Alert (Prototype)* | ML + real-time weather data to predict floods and suggest safe routes. |
-| 🖥 *SurakhshaAI UI* | Frontend UI for an AI-based security & alert application. |
-| 📊 *Data Analysis Case Studies* | Data visualization & insights with Pandas, NumPy, and Matplotlib. |
+✨ **Period Tracking App (Tkinter)**  
+A menstrual cycle tracking app with chatbot support, reminders & progress visualization.  
+
+🌊 **Flood Risk Alert (AI Prototype)**  
+A disaster management AI to predict floods & suggest safe routes.  
+
+🔍 **Data Analysis Studies**  
+Working on Python-based analytics & visualization projects.  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&title_color=9370DB&icon_color=BA55D3" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=purple-pink&border=9370DB&ring=BA55D3&fire=9370DB&currStreakNum=BA55D3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DureAdanNoor&show_icons=true&theme=omni&title_color=d291bc&icon_color=ba55d3" height="160" />
+  <img src="https://streak-stats.demolab.com?user=DureAdanNoor&theme=violet-pink&border=9b59b6&ring=d291bc&fire=ba55d3&currStreakNum=ba55d3" height="160"/>
 </p>
 
 ---
 
-## 🔍 Current Focus  
+## 🌱 Current Focus  
 
-🌟 Expanding my **Period Tracking App** with multi-month history and analytics.  
-📊 Building **Data Analytics projects** to strengthen my portfolio.  
-🤖 Exploring **AI Agents** & **LLMs** for real-world applications.  
-🎯 Learning advanced **Machine Learning & Neural Networks**.  
+- 📊 Building my **Data Analyst Journey** step by step  
+- 🤖 Exploring **AI Agents & LLMs**  
+- 🩺 Researching **AI in Healthcare**  
 
 ---
 
 ## 📫 Let's Connect  
 
-<p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-BA55D3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-d291bc?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-9b59b6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DureAdanNoor">
+    <img src="https://img.shields.io/badge/GitHub-ba55d3?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-> 💬 “Technology is best when it brings people together.” — Matt Mullenweg  
-
----
-
+<p align="center" style="color:#ba55d3; font-style:italic;">
+💬 “Learning by doing, leading by sharing, building to empower.”  
+</p>
