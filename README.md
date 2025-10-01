@@ -1,139 +1,93 @@
-<!-- Lavender animated banner (SVG) -->
+<!-- Profile Header -->
+<h1 align="center" style="color:#9370DB;">🌸 Hi there 👋, I'm Dure Adan Noor 🌸</h1>
+<h3 align="center">AI Student | Future Data Analyst | Passionate Healthcare Innovator</h3>
+
 <p align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-label="Dure Adan Noor Portfolio Banner">
-    <defs>
-      <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#E9D5FF">
-          <animate attributeName="stop-color" dur="6s" repeatCount="indefinite" values="#E9D5FF; #E6E6FA; #F3E8FF; #E9D5FF"/>
-        </stop>
-        <stop offset="100%" stop-color="#C7B3FF">
-          <animate attributeName="stop-color" dur="6s" repeatCount="indefinite" values="#C7B3FF; #DCC6F7; #EEDCFF; #C7B3FF"/>
-        </stop>
-      </linearGradient>
-      <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="12" result="b"/>
-        <feBlend in="SourceGraphic" in2="b"/>
-      </filter>
-    </defs>
-
-    <!-- soft background rounded shape -->
-    <rect x="0" y="0" width="1200" height="120" fill="url(#g)"/>
-    <g filter="url(#soft)">
-      <ellipse cx="1000" cy="30" rx="300" ry="40" fill="#FFFFFF" opacity="0.06">
-        <animate attributeName="opacity" dur="8s" values="0.06;0.12;0.06" repeatCount="indefinite"/>
-      </ellipse>
-      <ellipse cx="200" cy="80" rx="220" ry="30" fill="#FFFFFF" opacity="0.05">
-        <animate attributeName="opacity" dur="10s" values="0.05;0.11;0.05" repeatCount="indefinite"/>
-      </ellipse>
-    </g>
-
-    <!-- Title text -->
-    <text x="50%" y="58%" text-anchor="middle" font-family="Segoe UI, Roboto, system-ui, Arial" font-weight="700" font-size="36" fill="#2b2b2b">
-      <tspan>✨ Dure Adan Noor — Portfolio</tspan>
-      <animate attributeName="opacity" dur="4.5s" values="0.95;1;0.95" repeatCount="indefinite"/>
-    </text>
-
-    <!-- subtitle -->
-    <text x="50%" y="85%" text-anchor="middle" font-family="Segoe UI, Roboto, system-ui, Arial" font-weight="400" font-size="13" fill="#3a3a3a">
-      <tspan>AI • Healthcare • Data • Interactive UIs</tspan>
-    </text>
-  </svg>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-E6E6FA?style=flat-square&logo=progress" />
+  <img src="https://img.shields.io/badge/Goal-Improving%20Healthcare%20with%20AI-BA55D3?style=flat-square" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/your-username" target="_blank" rel="noopener">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@your-username-6e4cff?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-8a63ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-F3E8FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
+## 💡 About Me  
+
+🎓 I'm **Dure Adan Noor**, a BS Artificial Intelligence student at **NUML (4th semester)**.  
+💡 Passionate about **AI in healthcare**, **data analysis**, and building impactful solutions.  
+📚 With a **pre-medical background**, I now explore how AI can revolutionize healthcare in Pakistan.  
+🌸 I also enjoy **painting, cooking, reading novels**, and having proper *movie time* after a busy week.  
+
+---
+
+## 🛠 Tech Stack  
+
+<p>
+  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🎯 Frameworks & Libraries  
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-4682B4?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomTkinter-9370DB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🧰 Tools & IDEs  
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-9370DB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-E6E6FA?style=for-the-badge&logo=jupyter&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-8E44AD?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-228B22?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-## 🌸 Hi — I'm **Dure Adan Noor**
-**BS Artificial Intelligence (NUML)** — 4th semester student. I build practical AI and data projects focused on real-world impact, especially **healthcare** and **disaster-alert systems**. I blend clean UI + useful ML to deliver products people can actually use.
+## 🌟 Featured Projects  
+
+| Project | Description |
+|---------|-------------|
+| 💟 *Period Tracking App (Tkinter)* | Calendar-based cycle tracker with reminders, chatbot support, and progress visualization. |
+| 🌊 *Disaster Risk Alert (Prototype)* | ML + real-time weather data to predict floods and suggest safe routes. |
+| 🖥 *SurakhshaAI UI* | Frontend UI for an AI-based security & alert application. |
+| 📊 *Data Analysis Case Studies* | Data visualization & insights with Pandas, NumPy, and Matplotlib. |
 
 ---
 
-## 🔮 Quick Snapshot
-- 🔬 AI for Healthcare • 📊 Data Analysis • 🧠 Machine Learning  
-- 🛠️ Tools: **Python**, **CustomTkinter**, **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**  
-- 💡 Interests: Period tracking apps, disaster risk alerts (flood mapping), interactive data visualizations  
-- 🎨 Hobbies: Cooking, painting, novels
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&title_color=9370DB&icon_color=BA55D3" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=purple-pink&border=9370DB&ring=BA55D3&fire=9370DB&currStreakNum=BA55D3" />
+</p>
 
 ---
 
-## 💼 Featured Projects
+## 🔍 Current Focus  
 
-> Click the repo links to view code and demos.
-
-### 1) Period Tracking App — `PeriodTracker`  
-A desktop UI built with **CustomTkinter** (Python). Calendar selection, cycle & period settings, reminders, and progress visualization.  
-**Tech:** Python • CustomTkinter • Local storage  
-**Repo:** `https://github.com/your-username/period-tracker` (replace with link)
+🌟 Expanding my **Period Tracking App** with multi-month history and analytics.  
+📊 Building **Data Analytics projects** to strengthen my portfolio.  
+🤖 Exploring **AI Agents** & **LLMs** for real-world applications.  
+🎯 Learning advanced **Machine Learning & Neural Networks**.  
 
 ---
 
-### 2) Disaster Risk Alert (Prototype) — `SurakhshaAI`  
-Prototype for flood-risk alerts: ML model for risk scoring + safe-route mapping and localized alerts. UI demo and dataset experiments included.  
-**Tech:** Python • ML • React-native prototype (UI)  
-**Repo:** `https://github.com/your-username/surakhshaai` (replace with link)
+## 📫 Let's Connect  
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-BA55D3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-### 3) SurakhshaAI UI — Frontend Demo  
-Interactive frontend for security/alert system — responsive UI, Vercel deployment for the demo.  
-**Tech:** HTML • CSS • JS • Vercel  
-**Demo / Repo:** `https://github.com/your-username/surakhshaai-ui` (replace with link)
+> 💬 “Technology is best when it brings people together.” — Matt Mullenweg  
 
 ---
 
-## 🛠️ Skills & Visual Bars
-
-**Languages**  
-- Python: ██████████  (Proficient)  
-- JavaScript: ████████░  (Intermediate)  
-- SQL: ███████░░░  (Intermediate)
-
-**Frameworks / Tools**  
-- CustomTkinter | BeeWare | Pandas | NumPy | Scikit-learn | Matplotlib
-
----
-
-## ✨ What I bring
-- Strong foundation in ML & ANNs, and experience building UI prototypes.  
-- Interest in healthcare-first product design — from ideation to a working prototype.  
-- Quick learner with a creative design sense (I like to make UIs soft, accessible, and user-friendly — lavender themes are my favorite!).
-
----
-
-## 📎 How to reach me
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
-- **GitHub:** https://github.com/your-username  
-- **Email:** your.email@example.com
-
----
-
-## 📌 Customize & Tips
-- To make this README fully yours:
-  1. Replace `your-username`, LinkedIn & email placeholders with real links.  
-  2. Replace project repo links with your actual repository URLs.  
-  3. You can add GIFs/screenshots under each project:  
-     ```markdown
-     ![screenshot](assets/period-tracker-screenshot.gif)
-     ```
-  4. Add a `projects/` folder or `assets/` for images and reference them in the README.
-
----
-
-Thanks for visiting my portfolio — if you'd like, I can:
-- Insert your real links and project names now (paste them here) and I’ll return a fully personalized README ready to paste.  
-- Or generate small project screenshots / badges examples you can add.
-
-Which one do you want — **I’ll personalize it now** with your links, or leave placeholders for you to fill? 😊
