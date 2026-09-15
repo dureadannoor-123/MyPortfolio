@@ -1,81 +1,67 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=28&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Dure+Adan+Noor;AI+Explorer+%7C+Healthcare+Innovator;Data+Analyst+in+Progress;Always+Learning+%26+Building" alt="Typing SVG" />
-</h1>
+# Dur-e-Adan Noor
 
----
+**Applied AI | Predictive Maintenance | Sensor Analytics | Intelligent Automation**
 
-## 💜 About Me  
+Final-year **BS Artificial Intelligence** student at the **National University of Modern Languages (NUML), Islamabad**, currently in the 8th semester with a **CGPA of 3.53/4.00**. Expected graduation: **January 2027**.
 
-🎓 **AI Student** at NUML (4th Semester)  
-🩺 Passionate about **AI in Healthcare**  
-📊 Exploring **Data Analytics, ML & AI Agents**  
-🎨 Love **painting, cooking, and novels** besides coding  
-🌸 Believer in *“Learning by Doing, Building to Empower”*  
+My work focuses on applied machine learning for temporal and sensor data, predictive maintenance, intelligent decision-support systems, automation-enabled workflows, and retrieval-augmented generation.
 
----
+## Current Experience
 
-## 🚀 Tech Stack  
+**RPA Developer — Kynoby**  
+*Jul 2026–Present*  
+Developing and supporting RPA/software automations for healthcare-related operational and administrative workflows serving UK clients.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-9b59b6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-d291bc?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ba55d3?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-8e44ad?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ScikitLearn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-4682B4?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-DA70D6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+**Data Analyst — Merik Solutions**  
+*Jun 2025–Jun 2026*  
+Worked on Python-based data analysis, IoT/sensor analytics, Power BI reporting, automation/scripting, QA, and support for RAG-enabled AI solutions.
 
----
+## Selected Projects
 
-## 🌟 Featured Projects  
+### IntelliViz — Predictive Maintenance for Industrial Telemetry
+Final Year Project built around a multi-output LSTM for **Remaining Useful Life (RUL)**, 24-hour failure probability, and failure-type prediction from industrial telemetry. The system also converts model outputs into a machine-health score, automated alerts, and maintenance decision support.
 
-| 🚀 Project | ✨ Description |
-|------------|----------------|
-| 🩺 **Period Tracking App** | Tkinter-based app for cycle tracking with chatbot support & notifications. |
-| 🌊 **Flood Risk Alert AI** | Prototype predicting floods & mapping safe routes using ML + weather data. |
-| 🤖 **SurakhshaAI UI** | Security app’s interactive UI demo hosted via Vercel. |
-| 📊 **Data Analytics Case Studies** | Python-based projects with Pandas, NumPy, and visualization. |
+### [BookBrain](https://github.com/dureadannoor-123/Book-Brain)
+Narrative-aware RAG system for long-form text using contextual chunking, timeline awareness, embeddings, vector retrieval, and FastAPI.
 
----
+### [NeuroVisionAI](https://github.com/dureadannoor-123/NeuroVisionAI)
+AI-assisted brain tumor classification and glioma-stage prediction using CNN/ANN models, FastAPI, and a web interface.
 
-## 📊 GitHub Stats  
+### [CycleSenseAI](https://github.com/dureadannoor-123/Cycle-sense-AI)
+LSTM-based menstrual-cycle prediction application with Supabase-backed data management and an integrated user interface.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DureAdanNoor&show_icons=true&theme=radical&title_color=ff69b4&icon_color=9b59b6&bg_color=141321" height="160" />
-  <img src="https://streak-stats.demolab.com?user=DureAdanNoor&theme=radical&ring=ba55d3&fire=ff69b4&currStreakNum=ba55d3" height="160"/>
-</p>
+### [PakShield Defence AI](https://github.com/dureadannoor-123/PakShield_Defence_AI)
+Team project involving AI-based security analytics. My contribution focused on border anomaly detection and related computer-vision components.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DureAdanNoor&theme=dracula&bg_color=141321&line=ba55d3&point=ff69b4" />
-</p>
+## Research Interests
 
----
+- Predictive maintenance and prognostics
+- Time-series and sensor analytics
+- Remaining Useful Life prediction
+- Anomaly detection
+- Intelligent decision-support systems
+- Industrial and IoT AI
+- Retrieval-augmented generation and applied NLP
+- RPA and intelligent workflow automation
 
-## 🎯 Current Focus  
+## Technical Skills
 
-- 🔬 Expanding **Period Tracking App** with smart analytics  
-- 🧠 Learning **Neural Networks & AI Agents**  
-- 📊 Strengthening my **Data Analyst portfolio**  
-- 🩺 Researching **AI + Healthcare solutions**  
+**Programming & Data:** Python, SQL, C++, Pandas, NumPy, scikit-learn  
+**Machine Learning:** LSTM, CNN, ANN, deep learning, anomaly detection, predictive modelling  
+**NLP & RAG:** Retrieval-augmented generation, contextual embeddings, vector databases  
+**Backend & Data Systems:** FastAPI, Supabase, PostgreSQL, MySQL  
+**Analytics & Automation:** Power BI, Matplotlib, RPA, Python scripting
 
----
+## Education
 
-## 📫 Connect With Me  
+**BS Artificial Intelligence**  
+National University of Modern Languages (NUML), Islamabad  
+Expected Jan 2027 | CGPA: 3.53/4.00
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-9b59b6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/DureAdanNoor"><img src="https://img.shields.io/badge/GitHub-ba55d3?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+Selected coursework: Deep Learning (96), Artificial Intelligence (91), NLP (86), Algorithms (85), Database Systems (83), Data Mining (82), ANN Lab (93).
 
----
+## Contact
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300px" />
-</p>
-
-<p align="center" style="color:#a569bd; font-style:italic;">
-💬 “Technology is best when it improves lives.”  
-</p>
+- Email: [dureadannoor88@gmail.com](mailto:dureadannoor88@gmail.com)
+- LinkedIn: [linkedin.com/in/dure-adan-noor-29b01b2b5](https://www.linkedin.com/in/dure-adan-noor-29b01b2b5/)
+- GitHub: [github.com/dureadannoor-123](https://github.com/dureadannoor-123)
