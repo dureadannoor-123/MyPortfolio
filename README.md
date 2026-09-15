@@ -130,16 +130,26 @@ Selected coursework:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dureadannoor-123&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dureadannoor-123&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<a href="https://github.com/dureadannoor-123?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="https://github.com/dureadannoor-123"><img src="https://img.shields.io/github/followers/dureadannoor-123?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+<a href="https://github.com/dureadannoor-123?tab=repositories"><img src="https://img.shields.io/github/stars/dureadannoor-123?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=dureadannoor-123&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
+<br/><br/>
+
+<details>
+<summary><strong>Quick links to selected repositories</strong></summary>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dureadannoor-123&hide_border=true&area=true&theme=github-compact" width="96%" alt="GitHub activity graph" />
+<a href="https://github.com/dureadannoor-123/Book-Brain">BookBrain</a> ·
+<a href="https://github.com/dureadannoor-123/NeuroVisionAI">NeuroVisionAI</a> ·
+<a href="https://github.com/dureadannoor-123/Cycle-sense-AI">CycleSenseAI</a> ·
+<a href="https://github.com/dureadannoor-123/PakShield_Defence_AI">PakShield Defence AI</a>
+
+</details>
 
 </div>
 
