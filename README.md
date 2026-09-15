@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Dur-e-Adan%20Noor&fontSize=42&fontAlignY=36&desc=Applied%20AI%20%7C%20Predictive%20Maintenance%20%7C%20Sensor%20Analytics%20%7C%20Intelligent%20Automation&descAlignY=58&animation=fadeIn&color=0:1f2937,100:475569&fontColor=ffffff" width="100%" alt="Dur-e-Adan Noor header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=900&center=true&vCenter=true&width=780&lines=Final-year+BS+Artificial+Intelligence+student;Building+AI+for+sensor+data%2C+maintenance+and+decision+support;Working+across+ML%2C+RAG+and+intelligent+automation" alt="Animated introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=900&center=true&vCenter=true&width=820&lines=Final-year+BS+Artificial+Intelligence+student;RPA+Developer+%40+Kynoby;Former+Data+Analyst+%40+Merik+Solutions;Building+AI+for+sensor+data%2C+maintenance+and+decision+support" alt="Animated introduction" />
 
 <br/>
 
@@ -10,22 +10,62 @@
 <a href="https://www.linkedin.com/in/dure-adan-noor-29b01b2b5/"><img src="https://img.shields.io/badge/LinkedIn-Dur--e--Adan%20Noor-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/dureadannoor-123"><img src="https://img.shields.io/badge/GitHub-dureadannoor--123-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RPA%20Developer-Kynoby-334155?style=for-the-badge" alt="RPA Developer at Kynoby" />
+<img src="https://img.shields.io/badge/Data%20Analyst-Merik%20Solutions-475569?style=for-the-badge" alt="Data Analyst at Merik Solutions" />
+
 </div>
 
 ## About
 
 I am a final-year **BS Artificial Intelligence** student at the **National University of Modern Languages (NUML), Islamabad**, currently in the 8th semester with a **CGPA of 3.53/4.00** and expected graduation in **January 2027**.
 
-My work focuses on applied machine learning for **temporal and sensor data**, **predictive maintenance**, **intelligent decision-support systems**, **automation-enabled workflows**, and **retrieval-augmented generation**.
+My work sits at the intersection of **applied machine learning**, **sensor and temporal data**, **predictive maintenance**, **decision-support systems**, **RAG**, and **intelligent automation**.
 
-## Current Experience
+## Professional Experience
 
-| Role | Organization | Period | Focus |
-|---|---|---|---|
-| **RPA Developer** | **Kynoby** | Jul 2026–Present | RPA/software automation for healthcare-related operational and administrative workflows serving UK clients |
-| **Data Analyst** | **Merik Solutions** | Jun 2025–Jun 2026 | Python data analysis, IoT/sensor analytics, Power BI, automation/scripting, QA, and RAG-enabled AI support |
+<details open>
+<summary><strong>RPA Developer — Kynoby</strong> &nbsp; <code>Jul 2026–Present</code></summary>
+<br/>
 
-## Research Interests
+Working on **RPA and software automation** for healthcare-related operational and administrative workflows serving UK clients.
+
+**Current focus**
+- Supporting automation of repetitive operational and administrative processes
+- Working in healthcare-oriented workflow automation environments
+- Contributing to data-driven and software-enabled process improvement
+
+<p>
+<img src="https://img.shields.io/badge/RPA-334155?style=flat-square" alt="RPA" />
+<img src="https://img.shields.io/badge/Healthcare%20Automation-475569?style=flat-square" alt="Healthcare Automation" />
+<img src="https://img.shields.io/badge/Workflow%20Automation-64748B?style=flat-square" alt="Workflow Automation" />
+</p>
+
+</details>
+
+<details open>
+<summary><strong>Data Analyst — Merik Solutions</strong> &nbsp; <code>Jun 2025–Jun 2026</code></summary>
+<br/>
+
+Worked across **Python-based analytics, IoT sensor data, Power BI, automation/scripting, QA, and RAG support**.
+
+**Selected applied work**
+- Analyzed **six months of 5-minute-interval IoT water-level sensor data** from a real agricultural deployment
+- Identified irrigation cycles, dry periods, fluctuations, and recurring temporal patterns
+- Contributed analytical reporting for an external research stakeholder
+- Supported Python/Pandas/NumPy analysis, reporting automation, QA, and RAG-related work
+
+<p>
+<img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/IoT%20Analytics-475569?style=flat-square" alt="IoT Analytics" />
+<img src="https://img.shields.io/badge/Power%20BI-64748B?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
+<img src="https://img.shields.io/badge/RAG%20Support-334155?style=flat-square" alt="RAG Support" />
+</p>
+
+</details>
+
+## Research & Technical Interests
 
 <p align="center">
 <img src="https://img.shields.io/badge/Predictive%20Maintenance-334155?style=for-the-badge" alt="Predictive Maintenance" />
@@ -97,13 +137,17 @@ Selected coursework:
 
 <img src="https://streak-stats.demolab.com?user=dureadannoor-123&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dureadannoor-123&hide_border=true&area=true&theme=github-compact" width="96%" alt="GitHub activity graph" />
+
 </div>
 
 ---
 
 <div align="center">
 
-**Interested in applied AI research where models connect to real operational decisions.**
+**Applied AI for real operational systems — from sensor data to intelligent automation.**
 
 <a href="mailto:dureadannoor88@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/dure-adan-noor-29b01b2b5/">LinkedIn</a> · <a href="https://github.com/dureadannoor-123">GitHub</a>
 
